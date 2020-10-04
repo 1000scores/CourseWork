@@ -1,0 +1,72 @@
+C:\Users\denis\source\repos\MyCoursework\MyCoursework\bin\Debug\MyCoursework.exe.config
+C:\Users\denis\source\repos\MyCoursework\MyCoursework\bin\Debug\MyCoursework.exe
+C:\Users\denis\source\repos\MyCoursework\MyCoursework\bin\Debug\MyCoursework.pdb
+C:\Users\denis\source\repos\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\MyCoursework\MyCoursework\obj\Debug\MyCoursework.Properties.Resources.resources
+C:\Users\denis\source\repos\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\MyCoursework\MyCoursework\obj\Debug\MyCoursework.exe
+C:\Users\denis\source\repos\MyCoursework\MyCoursework\obj\Debug\MyCoursework.pdb
+C:\Users\denis\source\repos\MyCoursework\MyCoursework\bin\Debug\ClassifierLibrary.dll
+C:\Users\denis\source\repos\MyCoursework\MyCoursework\bin\Debug\ClassifierLibrary.pdb
+C:\Users\denis\source\repos\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.CopyComplete
+\\Mac\Home\Desktop\MyCoursework\MyCoursework\bin\Debug\MyCoursework.exe.config
+\\Mac\Home\Desktop\MyCoursework\MyCoursework\bin\Debug\MyCoursework.exe
+\\Mac\Home\Desktop\MyCoursework\MyCoursework\bin\Debug\MyCoursework.pdb
+\\Mac\Home\Desktop\MyCoursework\MyCoursework\bin\Debug\ClassifierLibrary.dll
+\\Mac\Home\Desktop\MyCoursework\MyCoursework\bin\Debug\ClassifierLibrary.pdb
+\\Mac\Home\Desktop\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\MyCoursework\MyCoursework\obj\Debug\MyCoursework.Properties.Resources.resources
+\\Mac\Home\Desktop\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.CopyComplete
+\\Mac\Home\Desktop\MyCoursework\MyCoursework\obj\Debug\MyCoursework.exe
+\\Mac\Home\Desktop\MyCoursework\MyCoursework\obj\Debug\MyCoursework.pdb
+C:\MyCoursework\MyCoursework\bin\Debug\MyCoursework.exe.config
+C:\MyCoursework\MyCoursework\bin\Debug\MyCoursework.exe
+C:\MyCoursework\MyCoursework\bin\Debug\MyCoursework.pdb
+C:\MyCoursework\MyCoursework\bin\Debug\ClassifierLibrary.dll
+C:\MyCoursework\MyCoursework\bin\Debug\ClassifierLibrary.pdb
+C:\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csprojAssemblyReference.cache
+C:\MyCoursework\MyCoursework\obj\Debug\MyCoursework.Properties.Resources.resources
+C:\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.GenerateResource.cache
+C:\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.CoreCompileInputs.cache
+C:\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.CopyComplete
+C:\MyCoursework\MyCoursework\obj\Debug\MyCoursework.exe
+C:\MyCoursework\MyCoursework\obj\Debug\MyCoursework.pdb
+C:\Users\denis\MyCoursework\MyCoursework\bin\Debug\MyCoursework.exe.config
+C:\Users\denis\MyCoursework\MyCoursework\bin\Debug\MyCoursework.exe
+C:\Users\denis\MyCoursework\MyCoursework\bin\Debug\MyCoursework.pdb
+C:\Users\denis\MyCoursework\MyCoursework\bin\Debug\ClassifierLibrary.dll
+C:\Users\denis\MyCoursework\MyCoursework\bin\Debug\ClassifierLibrary.pdb
+C:\Users\denis\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csprojAssemblyReference.cache
+C:\Users\denis\MyCoursework\MyCoursework\obj\Debug\MyCoursework.Properties.Resources.resources
+C:\Users\denis\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.GenerateResource.cache
+C:\Users\denis\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.CoreCompileInputs.cache
+C:\Users\denis\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.CopyComplete
+C:\Users\denis\MyCoursework\MyCoursework\obj\Debug\MyCoursework.exe
+C:\Users\denis\MyCoursework\MyCoursework\obj\Debug\MyCoursework.pdb
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\MyCoursework\bin\Debug\MyCoursework.exe.config
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\MyCoursework\bin\Debug\MyCoursework.exe
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\MyCoursework\bin\Debug\MyCoursework.pdb
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\MyCoursework\bin\Debug\ClassifierLibrary.dll
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\MyCoursework\bin\Debug\ClassifierLibrary.pdb
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csprojAssemblyReference.cache
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\MyCoursework\obj\Debug\MyCoursework.Properties.Resources.resources
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.GenerateResource.cache
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.CoreCompileInputs.cache
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.CopyComplete
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\MyCoursework\obj\Debug\MyCoursework.exe
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\MyCoursework\obj\Debug\MyCoursework.pdb
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\MyCoursework\bin\Debug\MyCoursework.exe.config
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\MyCoursework\bin\Debug\MyCoursework.exe
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\MyCoursework\bin\Debug\MyCoursework.pdb
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\MyCoursework\bin\Debug\ClassifierLibrary.dll
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\MyCoursework\bin\Debug\ClassifierLibrary.pdb
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csprojAssemblyReference.cache
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\MyCoursework\obj\Debug\MyCoursework.Properties.Resources.resources
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.GenerateResource.cache
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.CoreCompileInputs.cache
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\MyCoursework\obj\Debug\MyCoursework.csproj.CopyComplete
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\MyCoursework\obj\Debug\MyCoursework.exe
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\MyCoursework\obj\Debug\MyCoursework.pdb

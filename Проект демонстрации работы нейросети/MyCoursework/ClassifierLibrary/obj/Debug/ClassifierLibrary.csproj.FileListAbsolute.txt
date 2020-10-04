@@ -1,0 +1,42 @@
+C:\Users\denis\source\repos\MyCoursework\ClassifierLibrary\bin\Debug\ClassifierLibrary.dll
+C:\Users\denis\source\repos\MyCoursework\ClassifierLibrary\bin\Debug\ClassifierLibrary.pdb
+C:\Users\denis\source\repos\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.dll
+C:\Users\denis\source\repos\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.pdb
+\\Mac\Home\Desktop\MyCoursework\ClassifierLibrary\bin\Debug\ClassifierLibrary.dll
+\\Mac\Home\Desktop\MyCoursework\ClassifierLibrary\bin\Debug\ClassifierLibrary.pdb
+\\Mac\Home\Desktop\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.dll
+\\Mac\Home\Desktop\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.pdb
+C:\MyCoursework\ClassifierLibrary\bin\Debug\ClassifierLibrary.dll
+C:\MyCoursework\ClassifierLibrary\bin\Debug\ClassifierLibrary.pdb
+C:\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.csprojAssemblyReference.cache
+C:\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.csproj.CoreCompileInputs.cache
+C:\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.dll
+C:\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.pdb
+C:\Users\denis\MyCoursework\ClassifierLibrary\bin\Debug\ClassifierLibrary.dll
+C:\Users\denis\MyCoursework\ClassifierLibrary\bin\Debug\ClassifierLibrary.pdb
+C:\Users\denis\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.csprojAssemblyReference.cache
+C:\Users\denis\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.csproj.CoreCompileInputs.cache
+C:\Users\denis\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.dll
+C:\Users\denis\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.pdb
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\ClassifierLibrary\bin\Debug\ClassifierLibrary.dll
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\ClassifierLibrary\bin\Debug\ClassifierLibrary.pdb
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.csprojAssemblyReference.cache
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.csproj.CoreCompileInputs.cache
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.dll
+C:\Users\denis\Documents\MyCourseworkV3\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.pdb
+C:\Users\denis\Documents\MyCoursework\MyCoursework\ClassifierLibrary\bin\Debug\ClassifierLibrary.dll
+C:\Users\denis\Documents\MyCoursework\MyCoursework\ClassifierLibrary\bin\Debug\ClassifierLibrary.pdb
+C:\Users\denis\Documents\MyCoursework\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.csprojAssemblyReference.cache
+C:\Users\denis\Documents\MyCoursework\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.csproj.CoreCompileInputs.cache
+C:\Users\denis\Documents\MyCoursework\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.dll
+C:\Users\denis\Documents\MyCoursework\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.pdb
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\ClassifierLibrary\bin\Debug\ClassifierLibrary.dll
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\ClassifierLibrary\bin\Debug\ClassifierLibrary.pdb
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.csprojAssemblyReference.cache
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.csproj.CoreCompileInputs.cache
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.dll
+C:\Users\denis\Documents\Курсовая 1\Проект демонстрации работы нейросети\MyCoursework\ClassifierLibrary\obj\Debug\ClassifierLibrary.pdb
